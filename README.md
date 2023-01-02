@@ -1,6 +1,6 @@
 ﻿# BGOPC
-A Middle school student who just wants to code
-
+A Middle school student who just wants to code,
+[Intro And Experties](bgopc.github.io)
 ## I'm Experted in
 
 #### Python JavaScript(More likely TS) and Java
