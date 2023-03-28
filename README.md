@@ -2,6 +2,7 @@
 Hey, I'm BGOPC; An Iranian Teenager who loves to code and play Mc<br>Also, I watch anime
 <br>
 [Intro and Experties](https://bgopc.github.io)
+<hr>
 Oh, It'd be nice if you
 <br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bgopc)
