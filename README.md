@@ -12,4 +12,4 @@ A Middle school student who just wants to code,
 ##### FireBase, Postgresql, Redis, Linux, Docker
 
 ### Interests
-#### AstroBuild, Svelte, Discrd.js, Discord.py, PocketBase, C and google's Carbon Lang
+#### AstroBuild, Svelte, Discrd.js, Discord.py, PocketBase, C and Minecraft Dev
