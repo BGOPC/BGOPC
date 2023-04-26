@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey, I'm BGOPC; An Iranian Teenager who loves to code and play Mc<br>Also, I watch anime
 <br>
-[Intro and Experties](https://bgopc.github.io)
+[My Website](https://bgopc.github.io)
 <hr>
 Oh, It'd be nice if you <a href="https://www.buymeacoffee.com/bgopc">Buy Me A Coffee</a>
 
